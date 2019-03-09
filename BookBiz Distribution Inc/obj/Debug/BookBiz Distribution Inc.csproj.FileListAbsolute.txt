@@ -1,0 +1,23 @@
+C:\Users\Jbiscot\Desktop\BookBiz Distribution Inc\BookBiz Distribution Inc\bin\Debug\BookBiz Distribution Inc.exe.config
+C:\Users\Jbiscot\Desktop\BookBiz Distribution Inc\BookBiz Distribution Inc\bin\Debug\BookBiz Distribution Inc.exe
+C:\Users\Jbiscot\Desktop\BookBiz Distribution Inc\BookBiz Distribution Inc\bin\Debug\BookBiz Distribution Inc.pdb
+C:\Users\Jbiscot\Desktop\BookBiz Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz Distribution Inc.csprojResolveAssemblyReference.cache
+C:\Users\Jbiscot\Desktop\BookBiz Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz_Distribution_Inc.GUI.FormBookBiz.resources
+C:\Users\Jbiscot\Desktop\BookBiz Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz_Distribution_Inc.Properties.Resources.resources
+C:\Users\Jbiscot\Desktop\BookBiz Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz Distribution Inc.csproj.GenerateResource.Cache
+C:\Users\Jbiscot\Desktop\BookBiz Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz Distribution Inc.exe
+C:\Users\Jbiscot\Desktop\BookBiz Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz Distribution Inc.pdb
+C:\Users\Jbiscot\Desktop\BookBiz Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz_Distribution_Inc.GUI.FormBookBizLogin.resources
+C:\Users\Jbiscot\Desktop\Object Oriented - Final Project 2.0\BookBiz Distribution Inc\BookBiz Distribution Inc\bin\Debug\BookBiz Distribution Inc.exe.config
+C:\Users\Jbiscot\Desktop\Object Oriented - Final Project 2.0\BookBiz Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz Distribution Inc.exe
+C:\Users\Jbiscot\Desktop\Object Oriented - Final Project 2.0\BookBiz Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz Distribution Inc.pdb
+C:\Users\Jbiscot\Desktop\Books Distribution Inc\BookBiz Distribution Inc\bin\Debug\BookBiz Distribution Inc.exe.config
+C:\Users\Jbiscot\Desktop\Books Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz Distribution Inc.exe
+C:\Users\Jbiscot\Desktop\Books Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz Distribution Inc.pdb
+C:\Users\Jbiscot\Desktop\Books Distribution Inc\BookBiz Distribution Inc\bin\Debug\BookBiz Distribution Inc.exe
+C:\Users\Jbiscot\Desktop\Books Distribution Inc\BookBiz Distribution Inc\bin\Debug\BookBiz Distribution Inc.pdb
+C:\Users\Jbiscot\Desktop\Books Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz Distribution Inc.csprojResolveAssemblyReference.cache
+C:\Users\Jbiscot\Desktop\Books Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz_Distribution_Inc.GUI.FormBookBiz.resources
+C:\Users\Jbiscot\Desktop\Books Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz_Distribution_Inc.GUI.FormBookBizLogin.resources
+C:\Users\Jbiscot\Desktop\Books Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz_Distribution_Inc.Properties.Resources.resources
+C:\Users\Jbiscot\Desktop\Books Distribution Inc\BookBiz Distribution Inc\obj\Debug\BookBiz Distribution Inc.csproj.GenerateResource.Cache
